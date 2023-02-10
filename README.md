@@ -1,5 +1,6 @@
 # Web Design and Number Guess Game
- Web Design using React
+ Web Design using React & Bootstrap
+ 
 Instructions
 
 1. The web site must have navigation bar specialized on web site’s topic.
